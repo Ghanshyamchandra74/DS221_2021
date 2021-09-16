@@ -14,3 +14,4 @@ make clean
 make
 executable_name
 ```
+Replace `executable_name` with available Executables
